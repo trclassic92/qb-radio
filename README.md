@@ -1,7 +1,7 @@
 # qb-radio
  Nopixel Inspired Radio for qb-core
 
-Google search for the image radio https://i.imgur.com/pgRGFIB.png
+Google search for the image of the radio https://i.imgur.com/pgRGFIB.png
 
 Radio In-game https://i.imgur.com/XqCmF5X.jpeg
 
