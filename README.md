@@ -12,3 +12,9 @@ https://youtu.be/g8GyR2-yphE
 works with pma-voice
 
 Replace current qb-radio with this version if you want to use it
+
+Inventory image added.
+
+qb-radio/imgforinvenotry
+
+replace radio.png in your current inventory image folder with this one.
