@@ -18,3 +18,5 @@ Inventory image added.
 qb-radio/imgforinvenotry
 
 replace radio.png in your current inventory image folder with this one.
+
+https://i.imgur.com/Aj33Gnv.png
