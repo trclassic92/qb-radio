@@ -251,3 +251,25 @@ AddEventHandler('qb-radio:client:JoinRadioChannel4', function(channel)
         QBCore.Functions.Notify(Config.messages['joined_to_radio'] ..channel.. '.00 MHz', 'success')
     end
 end)
+
+RegisterNetEvent('qb-radio:client:JoinRadioChannel5')
+AddEventHandler('qb-radio:client:JoinRadioChannel5', function(channel)
+    local channel = 5
+    exports["pma-voice"]:setRadioChannel(channel)
+    if SplitStr(tostring(channel), ".")[2] ~= nil and SplitStr(tostring(channel), ".")[2] ~= "" then
+        QBCore.Functions.Notify(Config.messages['joined_to_radio'] ..channel.. ' MHz', 'success')
+    else
+        QBCore.Functions.Notify(Config.messages['joined_to_radio'] ..channel.. '.00 MHz', 'success')
+    end
+end)
+
+RegisterNetEvent('qb-radio:client:JoinRadioChannel6')
+AddEventHandler('qb-radio:client:JoinRadioChannel6', function(channel)
+    local channel = 6
+    exports["pma-voice"]:setRadioChannel(channel)
+    if SplitStr(tostring(channel), ".")[2] ~= nil and SplitStr(tostring(channel), ".")[2] ~= "" then
+        QBCore.Functions.Notify(Config.messages['joined_to_radio'] ..channel.. ' MHz', 'success')
+    else
+        QBCore.Functions.Notify(Config.messages['joined_to_radio'] ..channel.. '.00 MHz', 'success')
+    end
+end)

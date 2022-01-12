@@ -25,11 +25,14 @@ Credits to MonkeyWhisper for creating the event
 
 ## Images
 - Google search for the image of the radio https://i.imgur.com/pgRGFIB.png
-- Radio In-game https://i.imgur.com/XqCmF5X.jpeg
-- Preview of the radio https://youtu.be/g8GyR2-yphE
+- Radio In-game https://i.imgur.com/4gpPbXm.png
+- Preview of the radio https://youtu.be/vMr-OFP8HzU
 
 ## Installation
-Replace current qb-radio with this version if you want to use it
+- Replace current qb-radio with this version if you want to use it
+
+1/12/2022 (Sound's)
+-  To add the new radio sounds go to `\pma-voice\ui`
 
 Inventory image - replace radio.png in your current inventory image folder with this one.
 
