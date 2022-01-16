@@ -25,7 +25,7 @@ Credits to MonkeyWhisper for creating the event
 
 ## Images
 - Google search for the image of the radio https://i.imgur.com/pgRGFIB.png
-- Radio In-game https://i.imgur.com/4gpPbXm.png
+![Preview Screenshot](https://i.imgur.com/4gpPbXm.png) https://i.imgur.com/4gpPbXm.png
 - Preview of the radio https://youtu.be/vMr-OFP8HzU
 
 ## Installation
