@@ -36,5 +36,8 @@ Credits to MonkeyWhisper for creating the event
 
 Inventory image - replace radio.png in your current inventory image folder with this one.
 
+## Discord
+- [Join Discord](https://discord.gg/zRCdhENsHG)
+
 ## Original qb-radio
 - [qb-radio](https://github.com/qbcore-framework/qb-radio)
