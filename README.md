@@ -58,7 +58,7 @@ Credits to MonkeyWhisper for creating the event
 Inventory image - replace radio.png in your current inventory image folder with this one.
 
 ## Discord
-- [Join Discord](https://discord.gg/vTCUWCnQSD)
+- [Join Discord](https://discord.gg/T2xX5WwmEX)
 
 ## Support
 - [Ko-fi Link](https://ko-fi.com/trclassic)
